@@ -305,7 +305,7 @@ p{
     - adjust the ul in the nav to justify the items in it with space between
     - adjust the list items in the navigation so that they each have a flex basis of 20% 
 */
-@media screen and(min-width: 550px){
+@media screen and (min-width: 550px){
     header{
         display: flex;
         flex-wrap: wrap;
@@ -344,18 +344,7 @@ p{
         border: none;
     } 
 }
-    /* h1{
-        margin: 0;
-        font-size: 2.75rem;
-    }
-
-    #section1{
-        height: 500px;
-    }
-
-    #section1 div{
-        border: none;
-    } */
+    
 
 
 /* TO DO: Add the second media query here */
